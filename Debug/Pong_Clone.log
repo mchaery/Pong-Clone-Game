@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\이채린\Desktop\Pong_Clone\Pong_Clone\main.cpp(36,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\이채린\Desktop\Pong_Clone\Pong_Clone\main.cpp(37,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  ShaderProgram.cpp
+  Generating Code...
+  Pong_Clone.vcxproj -> C:\Users\이채린\Desktop\Pong_Clone\Debug\pong_clone.exe
