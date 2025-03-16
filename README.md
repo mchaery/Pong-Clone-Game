@@ -1,9 +1,9 @@
 # 🍩 **Pong Clone - Fork vs. Knife Edition** 🏓
 
-![game_screenshot1](assets/game_screenshot1.png)
-
 ## **📌 About the Game**
 This is a **Pong Clone** with a unique twist! Instead of classic paddles, you'll be playing with **a fork and a knife** as the paddles and **a bouncing donut** as the ball. The game supports **both single-player and two-player modes**, with customizable gameplay options.
+
+![game_screenshot1](assets/game_screenshot1.png)
 
 ## **🎮 Game Concept**
 - The **left paddle** is represented by a **fork** 🏓🍴.
@@ -39,3 +39,5 @@ This is a **Pong Clone** with a unique twist! Instead of classic paddles, you'll
 ## **🏆 Winning the Game**
 - If the donut passes **the left paddle (fork),** the **knife wins!** (`🔪 Knife Wins!`)
 - If the donut passes **the right paddle (knife),** the **fork wins!** (`🍴 Fork Wins!`)
+
+- ![game_screenshot2](assets/game_screenshot2.png)
