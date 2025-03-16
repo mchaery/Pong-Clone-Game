@@ -39,5 +39,4 @@ This is a **Pong Clone** with a unique twist! Instead of classic paddles, you'll
 ## **🏆 Winning the Game**
 - If the donut passes **the left paddle (fork),** the **knife wins!** (`🔪 Knife Wins!`)
 - If the donut passes **the right paddle (knife),** the **fork wins!** (`🍴 Fork Wins!`)
-
-- ![game_screenshot2](assets/game_screenshot2.png)
+![game_screenshot2](assets/game_screenshot2.png)
